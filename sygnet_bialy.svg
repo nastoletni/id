@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="910"
+   height="702"
+   viewBox="0 0 240.77083 185.7375"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="sygnet_bialy.svg"
+   inkscape:export-filename="D:\MEGA\NastoletniProgramisci\identyfikacja wizualna\sygnet_bialy.png"
+   inkscape:export-xdpi="295.38"
+   inkscape:export-ydpi="295.38"
+   inkscape:version="0.92.1 r15371">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#34495e"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="230.21935"
+     inkscape:cy="374.63672"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2482"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="fill:#ffffff;fill-opacity:1;stroke-width:2.03828526"
+     id="rect4537"
+     width="240.77083"
+     height="185.7375"
+     x="0"
+     y="6.1035157e-006" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-111.26248)">
+    <g
+       id="Color"
+       transform="matrix(1.4469401,0,0,1.4568315,27.78125,110.89401)">
+      <path
+         id="path4485"
+         d="M 124,113 H 4 c -2.2,0 -4,-1.8 -4,-4 V 19 c 0,-2.2 1.8,-4 4,-4 h 120 c 2.2,0 4,1.8 4,4 v 90 c 0,2.2 -1.8,4 -4,4 z"
+         inkscape:connector-curvature="0"
+         style="fill:#ecf0f0" />
+      <rect
+         id="rect4487"
+         height="75.199997"
+         width="114"
+         y="29.799999"
+         x="7"
+         style="fill:#dfdfdf" />
+      <circle
+         id="circle4489"
+         r="2"
+         cy="22"
+         cx="104"
+         style="fill:#17d86b" />
+      <circle
+         id="circle4491"
+         r="2"
+         cy="22"
+         cx="110"
+         style="fill:#ff8418" />
+      <circle
+         id="circle4493"
+         r="2"
+         cy="22"
+         cx="116"
+         style="fill:#f44739" />
+      <rect
+         id="rect4495"
+         height="4"
+         width="58"
+         y="36"
+         x="17"
+         style="fill:#2281bb" />
+      <rect
+         id="rect4497"
+         height="4"
+         width="70"
+         y="46"
+         x="30"
+         style="fill:#d35103" />
+      <rect
+         id="rect4499"
+         height="4"
+         width="50"
+         y="56"
+         x="43"
+         style="fill:#c7342a" />
+      <rect
+         id="rect4501"
+         height="4"
+         width="38"
+         y="66"
+         x="57"
+         style="fill:#2281bb" />
+      <rect
+         id="rect4503"
+         height="4"
+         width="24"
+         y="76"
+         x="43"
+         style="fill:#c7342a" />
+      <rect
+         id="rect4505"
+         height="4"
+         width="10"
+         y="86"
+         x="30"
+         style="fill:#d35103" />
+      <rect
+         id="rect4507"
+         height="4"
+         width="58"
+         y="96"
+         x="17"
+         style="fill:#2281bb" />
+    </g>
+  </g>
+</svg>

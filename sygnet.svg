@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 240.77083 185.7375"
+   height="702"
+   width="910">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-111.26248)"
+     id="layer1">
+    <g
+       transform="matrix(1.4469401,0,0,1.4568315,27.78125,110.89401)"
+       id="Color">
+      <path
+         style="fill:#ecf0f0"
+         d="M 124,113 H 4 c -2.2,0 -4,-1.8 -4,-4 V 19 c 0,-2.2 1.8,-4 4,-4 h 120 c 2.2,0 4,1.8 4,4 v 90 c 0,2.2 -1.8,4 -4,4 z"
+         id="path4485" />
+      <rect
+         style="fill:#dfdfdf"
+         x="7"
+         y="29.799999"
+         width="114"
+         height="75.199997"
+         id="rect4487" />
+      <circle
+         style="fill:#17d86b"
+         cx="104"
+         cy="22"
+         r="2"
+         id="circle4489" />
+      <circle
+         style="fill:#ff8418"
+         cx="110"
+         cy="22"
+         r="2"
+         id="circle4491" />
+      <circle
+         style="fill:#f44739"
+         cx="116"
+         cy="22"
+         r="2"
+         id="circle4493" />
+      <rect
+         style="fill:#2281bb"
+         x="17"
+         y="36"
+         width="58"
+         height="4"
+         id="rect4495" />
+      <rect
+         style="fill:#d35103"
+         x="30"
+         y="46"
+         width="70"
+         height="4"
+         id="rect4497" />
+      <rect
+         style="fill:#c7342a"
+         x="43"
+         y="56"
+         width="50"
+         height="4"
+         id="rect4499" />
+      <rect
+         style="fill:#2281bb"
+         x="57"
+         y="66"
+         width="38"
+         height="4"
+         id="rect4501" />
+      <rect
+         style="fill:#c7342a"
+         x="43"
+         y="76"
+         width="24"
+         height="4"
+         id="rect4503" />
+      <rect
+         style="fill:#d35103"
+         x="30"
+         y="86"
+         width="10"
+         height="4"
+         id="rect4505" />
+      <rect
+         style="fill:#2281bb"
+         x="17"
+         y="96"
+         width="58"
+         height="4"
+         id="rect4507" />
+    </g>
+  </g>
+</svg>
