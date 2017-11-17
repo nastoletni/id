@@ -1,4 +1,4 @@
-![](logo_bialy.svg)
+![](logos/logo_blue.svg)
 
 <h1 align="center">Nastoletni Programiści visual identification</h1>
 
@@ -14,18 +14,28 @@ If you want to use one or more of these graphics, contact [Albert221](mailto:alb
 
 <h1 align="center">Signets</h1>
 
-![](sygnet.svg)
+### With transparent background
 
-![](sygnet_bialy.svg)
+![](signets/signet.svg)
 
-![](sygnet_kolor.svg)
+### With solid background
+
+![](signets/signet_white.svg)
+
+![](signets/signet_blue.svg)
 
 <h1 align="center">Logos</h1>
 
-![](logo.svg)
+### With transparent background
+
+![](logos/logo.svg)
 
 Text in logo above is white so this could be invisible on some backgrounds.
 
-![](logo_bialy.svg)
+![](logos/logo_blue.svg)
 
-![](logo_kolor.svg)
+### With solid background
+
+![](logos/logo_bg_blue.svg)
+
+![](logos/logo_bg_white.svg)
